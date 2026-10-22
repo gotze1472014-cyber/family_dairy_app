@@ -1,1 +1,29 @@
-
+{
+  "project_info": {
+    "project_number": "757492415591",
+    "project_id": "familystore-db03d",
+    "storage_bucket": "familystore-db03d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757492415591:android:d09e5e826674006f1928c2",
+        "android_client_info": {
+          "package_name": "family.STORE"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzTLNj_R_JCQcy124Vl8tQp7Ja4zxF0Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
